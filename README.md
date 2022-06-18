@@ -1,2 +1,2 @@
-# YT-Django-Heroku-Deploy-Channels-Daphne
+#Heroku-Deploy-Channels-Daphne
  
